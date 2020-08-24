@@ -25,6 +25,7 @@ def until_iterator (num)
   count = 0 
   until count == num
    puts "Welcome to Flatiron School's Web Development Course!"
+   count += 1
   end
 end
 
