@@ -9,10 +9,15 @@ end
 
 def times_iterator
   7.times do 
-    puts"
+    puts"Welcome to Flatiron School's Web Development Course!"
+  end 
 end
 
 def while_iterator
+  count = 0 
+  while count < 7
+    
+end
 end
 
 def until_iterator
